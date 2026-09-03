@@ -1,4 +1,4 @@
-packcage ar.edu.unju.escmi.tp3.ejercicio1
+package ar.edu.unju.escmi.tp3.ejercicio1;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
